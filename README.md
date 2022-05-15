@@ -1,1 +1,1 @@
-# Ising-Model-Analysis
+# Analyzing complex systems with different techniques and approaches.
